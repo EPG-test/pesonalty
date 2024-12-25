@@ -1,0 +1,42 @@
+[
+  {
+    "name":"The and",
+    "leaderName":"ng",
+    "adjective": ["Forgotten"],
+    "preferredVictoryType": "Diplomatic", 
+    "personality":"Base",
+    "favoredReligion": "Humanism",
+   
+    "startIntroPart1":"How lucky we are to be sp",
+    "startIntroPart2": "I don't  to the world."
+    "declaringWar": "I really dislike this option but I won't be sorry. Now perish."
+    "attacked": "What a cruel thing to do. Nothing more to show? to say? Let my people show what are they are capable of. "
+    "defeated": "We have fallen...? But man like me is not made for defeat, my people strong and resilient... Please... Don't be so rough on them. How could have this came to be?!",
+    "introduction":" Welcome, welcome to my dearest Kingdom. Take a seat with me and don't worry about my citizens, come on we don't bite... We just like to watch outsiders out of curiosity and interest."
+    "neutralHello": "What do you want to say?"
+    "hateHello": "You are a blister to this world. A Scar that should be left alone!"
+    "tradeRequest": "Wouldn't you like to marry a daughter or son of mine?"
+    "outerColor": [6, 132, 120]
+    "innerColor":  [132, 6, 19],
+    "uniqueName":"Golden Dynasty"
+   "uniques":[
+"Cannot build [Enslaved] units"]
+    "cities": [ 
+    "The Merra",
+    "Otherside",
+    "Outcast",
+    "The Beacon",
+    "Lampost", 
+    "Underpass",
+    "Eclipse",
+    "Bend",
+    "Badwater",
+    "Ironclad",
+    "Zephyros",
+    "Shattergate",
+    "Dreadkeep",
+   "Ascendia",
+    "Verdance",
+    ]
+    "spyNames": [ "Stormwatch", "Terent", "Klint", "Yenner", "Miller","Wellsman","Voiceover","Oscar", "Melio", "Baron Von Baron"]
+  }]
